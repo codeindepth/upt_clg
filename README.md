@@ -172,3 +172,58 @@ Finance: PayPal and Stripe APIs allow websites to process online payments secure
 
 This covers the core concepts of APIs, their use cases, and their importance in modern software development.
 
+
+
+
+
+
+
+Interacting with Web APIs
+
+Problem Statement: Analyzing Weather Data from OpenWeatherMap API
+
+Dataset: Weather data retrieved from OpenWeatherMap API
+
+Description: The goal is to interact with the OpenWeatherMap API to retrieve weather data 
+
+for a specific location and perform data modeling and visualization to analyze weather 
+
+patterns over time.
+
+Tasks to Perform:
+
+1. Register and obtain API key from OpenWeatherMap.
+
+2. Interact with the OpenWeatherMap API using the API key to retrieve weather data for 
+
+a specific location.
+
+3. Extract relevant weather attributes such as temperature, humidity, wind speed, and 
+
+precipitation from the API response.
+
+4. Clean and preprocess the retrieved data, handling missing values or inconsistent 
+
+formats.
+
+5. Perform data modeling to analyze weather patterns, such as calculating average 
+
+temperature, maximum/minimum values, or trends over time.
+
+6. Visualize the weather data using appropriate plots, such as line charts, bar plots, or 
+
+scatter plots, to represent temperature changes, precipitation levels, or wind speed 
+
+variations.
+
+7. Apply data aggregation techniques to summarize weather statistics by specific time 
+
+periods (e.g., daily, monthly, seasonal).
+
+8. Incorporate geographical information, if available, to create maps or geospatial 
+
+visualizations representing weather patterns across different locations.
+
+9. Explore and visualize relationships between weather attributes, such as temperature 
+
+and humidity, using correlation plots or heatmaps.
